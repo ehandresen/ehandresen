@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehandresen&label=Profile%20views&color=0e75b6&style=flat" alt="ehandresen" /> </p>
 
-- 🔭 I’m currently working on fullstackopen.com/en [fullstackopen](https://github.com/ehandresen/fullstackopen)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React-Native**, **TypeScript** & **Swift**
 
 - 📫 How to reach me **eirik.horgen.andresen@gmail.com**
 
