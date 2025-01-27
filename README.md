@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ehandresen&label=Profile%20views&color=0e75b6&style=flat" alt="ehandresen" /> 
 </p>
 
-- 🌱 I’m currently learning **React-Native**, **TypeScript** & **Swift**
+- 🌱 I’m currently learning **Kotlin** & **TypeScript** 
 
 - 📫 How to reach me **eirik.horgen.andresen@gmail.com**
 
@@ -32,8 +32,8 @@
   <a href="https://swift.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="20" height="20"/>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="20" height="20"/>
   </a>
 </p>
 
