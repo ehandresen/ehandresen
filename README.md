@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js** 
 
-- 📫 How to reach me **eirik.horgen.andresen@gmail.com**
+- 📫 How to reach me **eian004@student.kristiania.no**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
