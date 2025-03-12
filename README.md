@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ehandresen&label=Profile%20views&color=0e75b6&style=flat" alt="ehandresen" /> 
 </p>
 
-- 🌱 I’m currently learning **Kotlin** & **TypeScript** 
+- 🌱 I’m currently learning **Next.js** 
 
 - 📫 How to reach me **eirik.horgen.andresen@gmail.com**
 
