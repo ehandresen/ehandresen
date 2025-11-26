@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Eirik Andresen</h1>
-<h3 align="center">A passionate developer from Norway</h3>
+<h3 align="center">Frontend & mobile developer from Norway.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ehandresen&label=Profile%20views&color=0e75b6&style=flat" alt="ehandresen" /> 
 </p>
 
-- 🌱 I’m currently learning **Next.js** 
+### What I’m working on
+• Building my portfolio website in Next.js  
+• Improving my Microdata.no chatbot (RAG + LangChain)  
+• Learning more advanced React & backend integrations  
+
+### About me
+• Based in Oslo/Fornebu  
+• Interested in frontend, mobile, and full-stack development  
+• I enjoy building practical apps and learning through real projects  
+
+### Featured Projects
+• Microdata AI Chatbot – Next.js, LangChain, Pinecone  
+• Rick & Morty App – Kotlin + Jetpack Compose  
+• Vistora E-commerce – React, Node, PostgreSQL 
+
 
 - 📫 How to reach me **eian004@student.kristiania.no**
 
