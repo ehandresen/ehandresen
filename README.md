@@ -15,7 +15,7 @@
 • I enjoy building practical apps and learning through real projects  
 
 
-- 📫 How to reach me **eian004@student.kristiania.no**
+- 📫 How to reach me **eirik.horgen.andresen@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
