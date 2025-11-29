@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eirik Andresen</h1>
 <h3 align="center">Frontend & mobile developer from Norway.</h3>
 
+<p align="center">
+  🚀 <a href="https://your-portfolio-url.com" target="_blank"><b>Visit my Portfolio</b></a>
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ehandresen&label=Profile%20views&color=0e75b6&style=flat" alt="ehandresen" /> 
 </p>
